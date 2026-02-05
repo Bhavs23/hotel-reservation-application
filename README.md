@@ -46,7 +46,27 @@ hotel-reservation-application/
 ├── .gitignore
 │
 ├── documentation/
-│   └── Hotel Reservation Application Project Documentation.docx
+│   ├── Hotel Reservation Application Project Documentation.docx
+│   └── images/
+│       ├── code-testing.png
+│       ├── customer-class.png
+│       ├── freeroom-class.png
+│       ├── iroom-interface.png
+│       ├── iroom-polymorphism.png
+│       ├── model-package-structure.png
+│       ├── output1.png
+│       ├── output2.png
+│       ├── output3.png
+│       ├── output4.png
+│       ├── output5.png
+│       ├── output6.png
+│       ├── output7.png
+│       ├── output8.png
+│       ├── reservation-class.png
+│       ├── room-class.png
+│       ├── roomtype-enum-class.png
+│       ├── roomtype-enum-creation.png
+│       └── roomtype-enum-implementation.png
 │
 └── src/
     ├── HotelApplication.java          # Main application entry point
